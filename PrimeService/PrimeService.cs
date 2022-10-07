@@ -21,4 +21,8 @@ namespace Prime.Services
             return true;
         }
     }
+    public class newClass
+    {
+        int newVar = 1;
+    }
 }
