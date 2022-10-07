@@ -24,5 +24,6 @@ namespace Prime.Services
     public class newClass
     {
         int newVar = 1;
+        newVar = newVar * 3;
     }
 }
