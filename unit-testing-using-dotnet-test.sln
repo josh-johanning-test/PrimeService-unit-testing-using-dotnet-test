@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeService", "PrimeService\PrimeService.csproj", "{ECBEF089-4304-472F-9807-1FC91681C8F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeService2", "PrimeService\PrimeService3.csproj", "{ECBEF089-4304-472F-9807-1FC91681C8F0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeService.Tests", "PrimeService.Tests\PrimeService.Tests.csproj", "{03E9DC65-59E2-4879-A7B4-A425CB1A5D88}"
 EndProject
