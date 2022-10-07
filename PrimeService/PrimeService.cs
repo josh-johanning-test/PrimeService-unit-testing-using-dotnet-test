@@ -25,6 +25,6 @@ namespace Prime.Services
     {
         int newVar = 1;
         int otherVar = 2;
-        newVar = newVar * otherVar;
+        int mathVar = newVar * otherVar;
     }
 }
