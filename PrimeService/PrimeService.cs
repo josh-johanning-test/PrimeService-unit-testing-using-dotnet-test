@@ -25,8 +25,6 @@ namespace Prime.Services
     {
         public bool IsPrime(int candidate)
         {
-            int newVar = 1;
-            newVar = newVar * 3;
             return true;
         }
 
