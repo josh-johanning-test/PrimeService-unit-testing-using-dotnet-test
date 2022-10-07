@@ -23,8 +23,13 @@ namespace Prime.Services
     }
     public class newClass
     {
-        int newVar = 1;
-        int otherVar = 2;
-        int mathVar = newVar * otherVar;
+        public bool IsPrime(int candidate)
+        {
+            int newVar = 1;
+            newVar = newVar * 3;
+            return true;
+        }
+
+
     }
 }
