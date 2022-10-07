@@ -21,4 +21,13 @@ namespace Prime.Services
             return true;
         }
     }
+    public class newClass
+    {
+        public bool IsPrime(int candidate)
+        {
+            return true;
+        }
+
+
+    }
 }
